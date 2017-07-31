@@ -39,7 +39,7 @@
 <artifactId>wildfly-maven-plugin</artifactId>
 <version>1.2.0.Alpha6</version>
 <configuration>
-	<hostname>ec2-54-209-73-190.compute-1.amazonaws.com</hostname>
+	<hostname>ec2-34-230-52-42.compute-1.amazonaws.com</hostname>
 	<port>9990</port>
 	<username>buntyray</username>
 	<password>Eva@2014</password>
